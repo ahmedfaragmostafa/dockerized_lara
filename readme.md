@@ -3,7 +3,8 @@
 
 
 ## Disclaimer
-Docker which contains  php 7, Redis, Mongodb , mysql and Nginx 
+Laravel Up and running in docker containers
+stack =>  php 7, Redis, Mongodb , mysql and Nginx 
 - Easy To use 
 - Built for Humans 
 
