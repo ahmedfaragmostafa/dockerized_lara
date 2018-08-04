@@ -32,7 +32,7 @@ REDIS_HOST=redis
 REDIS_PASSWORD=null
 REDIS_PORT=6379
 ```
-##mongo db
+## mongo db
 ```yaml
 #mongodb config 
 DB_CONNECTION=mongodb
@@ -94,3 +94,9 @@ Available tasks:
 └── readme.md
 
 ```
+## Screenshots
+![ScreenShot](https://raw.githubusercontent.com/ahmedfaragmostafa/dockerized_lara/master/images/Screen%20Shot%202018-08-05%20at%2012.00.14%20AM.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ahmedfaragmostafa/dockerized_lara/master/images/Screen%20Shot%202018-08-05%20at%2012.00.51%20AM.png)
+
+
