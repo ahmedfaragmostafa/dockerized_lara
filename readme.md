@@ -16,7 +16,7 @@ make install
 
 ```    
 
-## Update Your .env file 
+## Update Your `.env` file 
 
 ## mysql - Redis 
 ```yaml
