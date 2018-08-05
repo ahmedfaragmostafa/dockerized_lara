@@ -98,7 +98,7 @@ Available tasks:
 ## Screenshots
 
 ### Images
-![ScreenShot](https://raw.githubusercontent.com/ahmedfaragmostafa/dockerized_lara/master/images/images.png)
+![ScreenShot](https://imgur.com/ymidQKE)
 
 #### containers
 ![ScreenShot](https://raw.githubusercontent.com/ahmedfaragmostafa/dockerized_lara/master/images/containers.png)
