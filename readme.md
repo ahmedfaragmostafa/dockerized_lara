@@ -106,7 +106,7 @@ Available tasks:
 ### APP
 ![ScreenShot](https://i.imgur.com/VV4re4c.png)
 ![ScreenShot](https://i.imgur.com/nMKmK0R.png)
-![ScreenShot](https://i.imgur.com/nMKmK0R.png)
+![ScreenShot](https://i.imgur.com/ckXKKPs.png)
 
 
 
