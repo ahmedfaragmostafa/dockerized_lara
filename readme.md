@@ -98,15 +98,16 @@ Available tasks:
 ## Screenshots
 
 ### Images
-![ScreenShot](https://imgur.com/ymidQKE)
+![ScreenShot](https://i.imgur.com/ymidQKE.png)
 
 #### containers
-![ScreenShot](https://raw.githubusercontent.com/ahmedfaragmostafa/dockerized_lara/master/images/containers.png)
+![ScreenShot](https://i.imgur.com/JEGssTL.png)
 
 ### APP
-![ScreenShot](https://raw.githubusercontent.com/ahmedfaragmostafa/dockerized_lara/master/images/Screen%20Shot%202018-08-05%20at%2012.00.14%20AM.png)
+![ScreenShot](https://i.imgur.com/VV4re4c.png)
+![ScreenShot](https://i.imgur.com/nMKmK0R.png)
+![ScreenShot](https://i.imgur.com/nMKmK0R.png)
 
-![ScreenShot](https://raw.githubusercontent.com/ahmedfaragmostafa/dockerized_lara/master/images/Screen%20Shot%202018-08-05%20at%2012.00.51%20AM.png)
 
 
 
