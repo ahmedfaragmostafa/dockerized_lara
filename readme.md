@@ -54,8 +54,8 @@ make clear  # delete log file content + clear redis cache
 
 Add an entry `127.0.0.1 dockerized_lara.local` to your `/etc/hosts` file:
 ```bash
-sudo echo "127.0.0.1 dockerized_lara.local" >> /etc/hosts
-sudo echo "127.0.0.1 mysql" >> /etc/hosts
+echo "127.0.0.1 dockerized_lara.local" >> /etc/hosts
+echo "127.0.0.1 mysql" >> /etc/hosts
 ```
 
 Open your browser and visit `dockerized_lara.local:8001` and Enjoy 
