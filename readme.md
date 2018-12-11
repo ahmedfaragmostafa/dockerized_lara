@@ -66,7 +66,6 @@ Open your browser and visit `dockerized_lara.local:8001` and Enjoy
 Available tasks:
     install 		Init your project
     up 			Docker compose up
-    exec 		Make exec c='command to run'
     down 		Docker compose down
     clean 		Remove unused containers & images
     clear 		Clear logs and flush redis
